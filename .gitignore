@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.venv/
+groq-tabular-env/
+__pycache__/
+.env
+cache/
+*.log
